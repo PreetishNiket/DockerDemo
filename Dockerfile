@@ -1,4 +1,4 @@
-FROM adoptopenjdk:17-jre-hotspot
+FROM openjdk:17
 EXPOSE 9001
 WORKDIR /app
 
